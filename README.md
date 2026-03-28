@@ -207,7 +207,7 @@ No network required — MockWebSocket used for all tests.
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/websocket-devtools-profiler.git
+git clone https://github.com/abdullah-arain9/websocket-devtools-profiler.git
 cd websocket-devtools-profiler
 
 # Install dependencies
